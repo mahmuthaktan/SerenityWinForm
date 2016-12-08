@@ -15,11 +15,10 @@ namespace SerenityWinForm
         [STAThread]
         static void Main()
         {
+            AppInitialization.Run();
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            var container = new MunqContainer();
-            Dependency.SetResolver(container);
-
             Application.Run(new Form1());
         }
     }
