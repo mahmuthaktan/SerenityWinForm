@@ -42,23 +42,23 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Serenity.Core, Version=2.6.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Serenity.Core.2.6.4\lib\net45\Serenity.Core.dll</HintPath>
+      <HintPath>packages\Serenity.Core.2.6.4\lib\net45\Serenity.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Serenity.Data, Version=2.6.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Serenity.Data.2.6.4\lib\net45\Serenity.Data.dll</HintPath>
+      <HintPath>packages\Serenity.Data.2.6.4\lib\net45\Serenity.Data.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Serenity.Data.Entity, Version=2.6.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Serenity.Data.Entity.2.6.4\lib\net45\Serenity.Data.Entity.dll</HintPath>
+      <HintPath>packages\Serenity.Data.Entity.2.6.4\lib\net45\Serenity.Data.Entity.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Serenity.Services, Version=2.6.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Serenity.Services.2.6.4\lib\net45\Serenity.Services.dll</HintPath>
+      <HintPath>packages\Serenity.Services.2.6.4\lib\net45\Serenity.Services.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
